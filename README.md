@@ -1,10 +1,10 @@
 ### Oi, eu sou Bruno Fernandes!
 
-Sou um programador Front-end iniciante e estou atualmente estudando HTML, CSS e JS. Fique à vontade para dar uma olhada nos projetos que tenho trabalhado <a href="https://github.com/Bruno-FCS?tab=repositories">clicando aqui</a> e, se quiser, dar uma ajudinha também!
+Sou um programador iniciante e estou atualmente estudando HTML, CSS e JS. Fique à vontade para dar uma olhada nos projetos que tenho trabalhado <a href="https://github.com/Bruno-FCS?tab=repositories">clicando aqui</a> e, se quiser, dar uma ajudinha também!
 
 ### Hi, I am Bruno Fernandes!
 
-I'm a beginner Front-end developer and I'm currently studying HTML, CSS and JS. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
+I'm a beginner developer and I'm currently studying HTML, CSS and JS. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
 <br>
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
