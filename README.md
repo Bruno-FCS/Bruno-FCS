@@ -1,10 +1,10 @@
 ### Oi, eu sou Bruno Fernandes!
 
-Sou um programador full-stack e estou atualmente estudando Python. Fique à vontade para dar uma olhada nos projetos que tenho trabalhado <a href="https://github.com/Bruno-FCS?tab=repositories">clicando aqui</a> e, se quiser, dar uma ajudinha também!
+Sou um programador full-stack e estou atualmente estudando Python e Django. Fique à vontade para dar uma olhada nos projetos que tenho trabalhado <a href="https://github.com/Bruno-FCS?tab=repositories">clicando aqui</a> e, se quiser, dar uma ajudinha também!
 
 ### Hi, I am Bruno Fernandes!
 
-I'm a full-stack developer and I'm currently studying Python. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
+I'm a full-stack developer and I'm currently studying Python and Django. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
 <br>
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +28,7 @@ I'm a full-stack developer and I'm currently studying Python. Feel free to take 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
   
   ##
