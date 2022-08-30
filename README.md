@@ -7,8 +7,8 @@ Sou um programador full-stack e estou atualmente estudando Python e Django. Fiqu
 I'm a full-stack developer and I'm currently studying Python and Django. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
 <br>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
