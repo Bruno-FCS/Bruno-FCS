@@ -7,10 +7,8 @@ Sou um programador full-stack e estou atualmente estudando Python e Django. Fiqu
 I'm a full-stack developer and I'm currently studying Python and Django. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
 <br>
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
