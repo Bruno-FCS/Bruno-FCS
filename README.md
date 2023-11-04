@@ -6,10 +6,10 @@ Sou um programador full-stack e estou atualmente estudando React Native. Fique Ã
 
 I'm a full-stack developer and I'm currently studying React Native. Feel free to take a look at the projects I've been working on <a href="https://github.com/Bruno-FCS?tab=repositories">by clicking here</a> and, if you'd like, also give me a help!
 <br>
-<div align="center">
+<!-- <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Bruno-FCS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-FCS&layout=compact&langs_count=6&theme=dark"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
